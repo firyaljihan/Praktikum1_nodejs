@@ -1,7 +1,7 @@
 # Praktikum1_nodejs
 Firyal Jihan Haura/17/XI RPL 1
-![image](![bangun_ruang_balok](https://user-images.githubusercontent.com/105958314/200094270-6f4f22be-c175-48e2-a5a1-8d5fa5ad086b.png))
-![image](![bangun_ruang_kerucut](https://user-images.githubusercontent.com/105958314/200094315-a4fda1c1-c04b-4418-80cc-84c473ce0471.png))
+![bangun_ruang_balok](https://user-images.githubusercontent.com/105958314/200094525-e273d7fb-34e8-4ece-9f6f-0cf5698b8980.png)
+![bangun_ruang_kerucut](https://user-images.githubusercontent.com/105958314/200094541-608f83c4-fe25-4ad3-94ab-497b1832101f.png)
 ![bangun_ruang_kubus](https://user-images.githubusercontent.com/105958314/200094341-06d9b467-f9de-4d65-8b47-997aaf579c5a.png)
 ![bangun_ruang_tabung](https://user-images.githubusercontent.com/105958314/200094350-8a22627c-62ad-4412-a056-ce401269e493.png)
 ![celcius](https://user-images.githubusercontent.com/105958314/200094398-3071fc1b-3bda-4007-92d4-373266fe1cfb.png)
